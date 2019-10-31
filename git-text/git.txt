@@ -1,0 +1,15 @@
+Git is a software that is used for Version Control. It is free and open source.
+
+Now, let’s understand what is Version Control.
+
+Version Control is the management of changes to documents, computer programs, large websites and other collection of information.
+
+There are two types of VCS:
+
+Centralized Version Control System (CVCS)
+Distributed Version Control System (DVCS)
+Centralized VCS
+
+Centralized version control system (CVCS) uses a central server to store all files and enables team collaboration. It works on a single repository to which users can directly access a central server.
+
+Please refer to the diagram below to get a better idea of CVCS:
